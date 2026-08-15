@@ -2,7 +2,7 @@
 
 A desktop app for browsing, organizing, and auditioning a large Ableton Live project library. For anyone with years of scattered `.als` files spread across drives and folders who wants one searchable place to find, tag, and play them.
 
-**[Download the latest release](https://github.com/Zortheus/Ableton-Project-Manager-Releases/releases/latest)** — Windows (`.exe`) and Mac Apple Silicon (`.dmg`) installers are both attached there.
+**[Download for Windows](https://github.com/Zortheus/Ableton-Project-Manager-Releases/releases/latest/download/ableton-project-manager-setup.exe)** · **[Download for Mac (Apple Silicon)](https://github.com/Zortheus/Ableton-Project-Manager-Releases/releases/latest/download/ableton-project-manager.dmg)**
 
 ![Ableton Project Manager screenshot](screenshot.png)
 
@@ -18,7 +18,7 @@ A desktop app for browsing, organizing, and auditioning a large Ableton Live pro
 
 **Windows:** Download the `.exe` installer above and run it. Installs like any other windows app including Start and Desktop shortcuts. Unsigned, so Windows may show an "Unknown publisher" warning on first run; click through it to continue.
 
-**Mac:** Download the `.dmg` above (Apple Silicon only), open it, and drag the app into Applications. Unsigned, so macOS Gatekeeper will block the first launch; right-click the app and choose "Open", or go to System Settings → Privacy & Security and click "Open Anyway" after the first blocked attempt.
+**Mac:** Download the `.dmg` above (Apple Silicon only), open it, and drag the app into Applications. Unsigned, so macOS Gatekeeper will show an "unidentified developer" warning on first launch; right-click the app and choose "Open", or go to System Settings → Privacy & Security and click "Open Anyway" after the first blocked attempt.
 
 ---
 
